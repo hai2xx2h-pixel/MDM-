@@ -5,30 +5,28 @@
     <key>PayloadContent</key>
     <array>
         <dict>
-            <key>allowCamera</key>
-            <false/>
+            <key>PayloadEnabled</key>
+            <true/>
+            <key>PayloadIdentifier</key>
+            <string>com.wistron.hr.restrictions</string>
             <key>PayloadType</key>
-            <string>com.apple.applicationaccess.new</string>
+            <string>com.apple.applicationaccess</string>
+            <key>PayloadUUID</key>
+            <string>A1B2C3D4-E5F6-7890-ABCD-EF0123456789</string>
             <key>PayloadVersion</key>
             <integer>1</integer>
-            <key>PayloadIdentifier</key>
-            <string>com.wistron.hr.camera</string>
-            <key>PayloadUUID</key>
-            <string>1A2B3C4D-5E6F-7A8B-9C0D-1E2F3A4B5C6D</string>
-            <key>PayloadDisplayName</key>
-            <string>Wistron Hr</string>
+            <key>allowCamera</key>
+            <false/>
         </dict>
     </array>
     <key>PayloadDisplayName</key>
     <string>Wistron Hr</string>
     <key>PayloadIdentifier</key>
     <string>com.wistron.hr.profile</string>
-    <key>PayloadRemovalDisallowed</key>
-    <false/>
     <key>PayloadType</key>
     <string>Configuration</string>
     <key>PayloadUUID</key>
-    <string>9F8E7D6C-5B4A-3D9C-2E1F-0A1B2C3D4E5F</string>
+    <string>12345678-ABCD-EF01-2345-6789ABCDEF01</string>
     <key>PayloadVersion</key>
     <integer>1</integer>
 </dict>
